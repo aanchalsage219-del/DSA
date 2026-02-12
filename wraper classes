@@ -1,0 +1,14 @@
+Wraper classes : 
+
+byte		Byte.parseByte(s);
+short		Short.parseShort(s);
+int			Integer.parseInt(s);
+long		Long.parseLong(s);
+float		Float.parseFloat(s);
+double		Double.parseDouble(s);
+char		Character
+boolean 	Boolean
+
+
+String s="123";
+int x = Integer.parseInt(s);
